@@ -1,3 +1,5 @@
+# this is internal logging and informations, not meant for understanding
+
 # CANOPY / 齐射烟幕
 
 ![Canopy hero frame](./Canopy_n8_Hero_3840x1608.png)
