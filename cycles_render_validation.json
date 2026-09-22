@@ -1,0 +1,26 @@
+{
+  "engine": "CYCLES",
+  "device": "OPTIX",
+  "samples_max": 512,
+  "adaptive_threshold": 0.01,
+  "adaptive_min_samples": 64,
+  "denoiser": "OPENIMAGEDENOISE",
+  "denoising_prefilter": "ACCURATE",
+  "max_bounces": 12,
+  "volume_bounces": 4,
+  "volume_step_rate": 0.5,
+  "volume_max_steps": 4096,
+  "png_depth": 16,
+  "motion_blur_shutter": 0.18,
+  "host": "n8",
+  "gpu": "RTX 4070 Ti SUPER 16 GB",
+  "resolution": [
+    3840,
+    1608
+  ],
+  "fps": 24,
+  "frames": 336,
+  "launchers": 144,
+  "launches": 3456,
+  "event_timing_matches_manifest": true
+}

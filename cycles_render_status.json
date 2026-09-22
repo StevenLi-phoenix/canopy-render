@@ -1,0 +1,8 @@
+{
+  "stage": "failed",
+  "updated_utc": "2026-09-22T18:42:29.863690+00:00",
+  "host": "n8",
+  "render_pid": 102058,
+  "frames_total": 336,
+  "error": "Blender exited before all 336 frames were complete. The frame sequence can be resumed."
+}

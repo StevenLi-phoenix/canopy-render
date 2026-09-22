@@ -1,0 +1,48 @@
+{
+  "host": "n8",
+  "gpu": "NVIDIA GeForce RTX 4070 Ti SUPER 16 GB",
+  "blender": "5.2.2 LTS",
+  "engine": "BLENDER_EEVEE",
+  "samples": 96,
+  "resolution": [
+    3840,
+    1608
+  ],
+  "fps": 24,
+  "frames": 336,
+  "launchers": 144,
+  "launches": 3456,
+  "event_timing_matches_manifest": true,
+  "volume_tile": "4",
+  "volume_samples": 192,
+  "volume_shadow_samples": 64,
+  "video_verification": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "width": 3840,
+        "height": 1608,
+        "pix_fmt": "yuv420p",
+        "r_frame_rate": "24/1",
+        "nb_read_frames": "336"
+      }
+    ],
+    "format": {
+      "duration": "14.000000",
+      "size": "47639725"
+    }
+  },
+  "all_png_crc_checks_passed": true,
+  "decoded_video_without_errors": true,
+  "rendered_frame_seconds": 2460.4,
+  "benchmark_frames_reused": [
+    180,
+    181,
+    182
+  ],
+  "saved_scene_verified": true,
+  "all_png_iend_checks_passed": true,
+  "external_image_dependencies": []
+}
