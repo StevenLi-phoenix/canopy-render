@@ -1,5 +1,7 @@
 # CANOPY / 齐射烟幕
 
+![Canopy hero frame](./Canopy_n8_Hero_3840x1608.png)
+
 一个可编辑、无外部素材依赖的 Blender 动画场景。
 
 ## n8 重渲染版本
